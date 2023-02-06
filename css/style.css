@@ -1,0 +1,19 @@
+#vloot_1 {
+    
+    float: left;
+  }
+#vloot_2 {
+    float: right;
+  }
+
+#vloot_3{
+    float: left;
+
+}
+body{
+    display: grid;
+}
+img{
+    border: 2px solid black;
+    margin: 20px;
+}
